@@ -1,6 +1,6 @@
 export async function GET() {
   return new Response(
-    JSON.stringify({ message: "Halo aku dari backend next js" }),
+    JSON.stringify({ message: "Halo aku dari backend next.js buatan alif" }),
     {
       headers: {
         "Content-Type": "application/json",
