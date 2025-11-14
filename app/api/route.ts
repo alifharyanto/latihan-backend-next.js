@@ -4,7 +4,7 @@ export async function GET() {
     {
       headers: {
         "Content-Type": "application/json",
-        "Access-Control-Allow-Origin": "https://superlative-pony-43d0be.netlify.app/",
+        "Access-Control-Allow-Origin": "https://superlative-pony-43d0be.netlify.app",
         "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
         "Access-Control-Allow-Headers": "Content-Type"
       }
